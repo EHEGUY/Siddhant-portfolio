@@ -32,9 +32,9 @@ export default function BenjaminSkills() {
       items: [
         { label: "CUDA Dynamic Cache Management", num: "1" },
         { label: "LLaMA 3.3 70B Two-Pass Pipeline", num: "2" },
-        { label: "HTML5 Canvas & Motion Physics", num: "3" },
-        { label: "AWS & HuggingFace Spaces Deployment", num: "4" },
-        { label: "B.Sc. AI/ML — Dr. Homi Bhabha State University", num: "5" },
+        { label: "vLLM & PagedAttention Inference Engine", num: "3" },
+        { label: "HTML5 Canvas & Motion Physics", num: "4" },
+        { label: "AWS & HuggingFace Spaces Deployment", num: "5" },
       ],
     },
   ];
